@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Invaders", "Space Invaders.csproj", "{4DD1919F-E761-46DE-9E68-9C9D278590E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD1919F-E761-46DE-9E68-9C9D278590E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD1919F-E761-46DE-9E68-9C9D278590E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD1919F-E761-46DE-9E68-9C9D278590E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD1919F-E761-46DE-9E68-9C9D278590E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A568EC-7F2A-4EA2-8EC9-0914457F2284}
+	EndGlobalSection
+EndGlobal
