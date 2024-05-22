@@ -34,8 +34,8 @@
 					i++;
 				}
 
-				sbFont.Append("font / monogram.ttf");
-				sbSpaceship.Append("graphics/spaceship.png");
+				sbFont.Append("../../../font / monogram.ttf");
+				sbSpaceship.Append("../../../graphics/spaceship.png");
 
 				byte[] bytesFont = Encoding.ASCII.GetBytes(sbFont.ToString());
 

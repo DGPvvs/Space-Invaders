@@ -39,18 +39,18 @@
 					switch (this.Type)
 					{
 						case 1:
-							sb.Append("graphics/alien_1.png");
+							sb.Append("../../../graphics/alien_1.png");
 							break;
 
 						case 2:
-							sb.Append("graphics/alien_2.png");
+							sb.Append("../../../graphics/alien_2.png");
 							break;
 
 						case 3:
-							sb.Append("graphics/alien_3.png");
+							sb.Append("../../../graphics/alien_3.png");
 							break;
 						default:
-							sb.Append("graphics/alien_1.png");
+							sb.Append("../../../graphics/alien_1.png");
 							break;
 					}
 

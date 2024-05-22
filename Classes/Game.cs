@@ -33,8 +33,8 @@
 
 		public Game()
 		{
-			this.music = LoadMusicStream("music/music.ogg");
-			this.explosionSound = LoadSound("music/explosion.ogg");
+			this.music = LoadMusicStream("../../../music/music.ogg");
+			this.explosionSound = LoadSound("../../../music/explosion.ogg");
 			PlayMusicStream(this.music);
 			this.InitGame();
 		}

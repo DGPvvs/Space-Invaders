@@ -29,7 +29,7 @@
 					i++;
 				}
 
-				sb.Append("graphics/mystery.png");
+				sb.Append("../../../graphics/mystery.png");
 
 				byte[] bytes = Encoding.ASCII.GetBytes(sb.ToString());
 
